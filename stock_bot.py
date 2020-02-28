@@ -12,7 +12,7 @@ from google_images_download import google_images_download
 
 # CLIENT ID: 555922053040046082
 
-TOKEN = 'NTU1OTIyMDUzMDQwMDQ2MDgy.D2yOyg.1rBqZUrXQ183is4SH5Yao5oUR88'
+TOKEN = ''
 
 base_url = 'https://api.iextrading.com/1.0'
 
