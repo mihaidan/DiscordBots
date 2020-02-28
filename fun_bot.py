@@ -6,7 +6,7 @@ import re
 
 from google_images_download import google_images_download
 
-TOKEN = 'NDM5OTk2NzM2NTkzOTg1NTQ2.DcbSdQ.oQr1DTjSs8--Pz9HIaVa3gS0sJE'
+TOKEN = ''
 
 CWD = os.getcwd()
 
